@@ -4,7 +4,7 @@ customElements.define(
         connectedCallback() {
             this.attachShadow({ mode: 'open' });
 
-            const size = this.getAttribute('size') || '2rem';
+            const size = this.getAttribute('size') || '2.5rem';
             const circleColor = this.getAttribute('circle') || '#eee';
             const innerColor = this.getAttribute('inner') || '#888';
 
