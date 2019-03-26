@@ -2,6 +2,10 @@
 
 Custom web element which show spinner. Useful for content loading or action feedback.
 
+## Demo
+
+https://bultas.github.io/spinner-loader/
+
 ## Usage
 
 ```
