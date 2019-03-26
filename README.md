@@ -6,6 +6,10 @@ Custom web element which show spinner. Useful for content loading or action feed
 
 https://bultas.github.io/spinner-loader/
 
+## Install
+
+- `npm i spinner-loader`
+
 ## Usage
 
 ```
