@@ -1,6 +1,6 @@
 {
   "name": "spinner-loader",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Spinner Loader custom element",
   "main": "index.js",
   "scripts": {
