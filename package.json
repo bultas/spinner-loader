@@ -1,0 +1,25 @@
+{
+  "name": "spinner-loader",
+  "version": "1.0.0",
+  "description": "Spinner Loader custom element",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bultas/spinner-loader.git"
+  },
+  "keywords": [
+    "custom-element",
+    "web-component",
+    "spinner",
+    "loader"
+  ],
+  "author": "Daniel Bultas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bultas/spinner-loader/issues"
+  },
+  "homepage": "https://github.com/bultas/spinner-loader#readme"
+}
