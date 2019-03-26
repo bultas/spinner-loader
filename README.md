@@ -8,7 +8,9 @@ https://bultas.github.io/spinner-loader/
 
 ## Install
 
-- `npm i spinner-loader`
+```
+npm i spinner-loader
+```
 
 ## Usage
 
